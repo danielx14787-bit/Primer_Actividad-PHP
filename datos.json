@@ -1,0 +1,14 @@
+[
+    {
+        "tipoVinculacion": "Funcionario de Planta",
+        "tipoDocumento": "CC",
+        "numeroDocumento": "123456",
+        "nombres": "Asdfghj",
+        "apellidos": "Asdfghj",
+        "correo": "danielx14787@gmail.com",
+        "salarioBasico": 2345678,
+        "diasTrabajados": 21,
+        "auxilioTransporteLegal": 12345,
+        "netoPagar": 1519258.13
+    }
+]
